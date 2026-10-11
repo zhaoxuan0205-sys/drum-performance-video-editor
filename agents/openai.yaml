@@ -1,0 +1,4 @@
+interface:
+  display_name: "架子鼓演奏视频剪辑"
+  short_description: "同步人物画面与外录鼓声，完成短视频剪辑和发布素材"
+  default_prompt: "请将人物演奏视频和外录音频剪成音画同步的架子鼓短视频。"
